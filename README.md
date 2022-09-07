@@ -1,19 +1,16 @@
 <p align="center">
-    <img width="300" src="https://micheleambrosio.github.io/semana-frontend-mundo-invertido/assets/images/banner/logo.svg">
+    <img width="300" src=https://user-images.githubusercontent.com/97262523/188760046-134e4e96-82c1-4516-a634-ce237f95f54b.png">
 </p>
 
 -------
-Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
-
-## ▶️ Semana Front-end
-- [Live Dia 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
-- [Live Dia 02](https://www.youtube.com/watch?v=WHbhgxJLbN4)
+##Projeto Mundo Invertido
+## ▶️ Semana Front-end - Dio
 ## 💻 Tecnologias
 - HTML
 - CSS
 - JavaScript
 
-## 💬 Assuntos abordados
+## Conhecimento adquirido.
 - HTML
     - Estruturação da página 
     - Semântica
