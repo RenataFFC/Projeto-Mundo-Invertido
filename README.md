@@ -5,7 +5,7 @@
 -------
 ##Projeto Mundo Invertido
 ## ▶️ Semana Front-end - Dio
-## 💻 Tecnologias
+## 💻 Tecnologias Usadas
 - HTML
 - CSS
 - JavaScript
